@@ -1,24 +1,14 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR3CMNyxYCBKCuE/giphy.gif" width="800" height="200" alt="Welcome Banner">
+  <img src="https://user-images.githubusercontent.com/86859074/147394367-8ae27a25-e206-41e2-9ecf-7564b8d1b4bf.gif" width="80">
 </p>
 
 # 👋 Hi, I'm Joaquim Colacilli
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1ykI3SEfMDFJ4KgnlN/giphy.gif" width="50"> 
-  <strong>Full Stack Developer</strong> specializing in <strong>Java Spring Boot</strong>, <strong>Angular</strong>, and <strong>MySQL</strong> with a focus on microservices architecture at <strong>NTT Data</strong>.
-</p>
-<p align="center">
-  Currently pursuing a Bachelor's degree in <strong>Systems Analysis</strong> at the <strong>Faculty of Engineering, University of Buenos Aires</strong>.
-</p>
+**Full Stack Developer** specializing in **Java Spring Boot**, **Angular**, and **MySQL** with a focus on microservices architecture at **NTT Data**. Currently pursuing a Bachelor's degree in **Systems Analysis** at the **Faculty of Engineering, University of Buenos Aires**.
 
 ---
 
 ## 🚀 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
-</p>
 
 I am a dedicated Full Stack Developer with a strong background in computer science and significant experience in programming, database administration, and network configuration. My expertise lies in:
 
