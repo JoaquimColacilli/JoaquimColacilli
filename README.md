@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86859074/147394367-8ae27a25-e206-41e2-9ecf-7564b8d1b4bf.gif" width="80">
+</p>
+
 # 👋 Hi, I'm Joaquim Colacilli
 
 **Full Stack Developer** specializing in **Java Spring Boot**, **Angular**, and **MySQL** with a focus on microservices architecture at **NTT Data**. Currently pursuing a Bachelor's degree in **Systems Analysis** at the **Faculty of Engineering, University of Buenos Aires**.
@@ -8,9 +12,9 @@
 
 I am a dedicated Full Stack Developer with a strong background in computer science and significant experience in programming, database administration, and network configuration. My expertise lies in:
 
-- **In-depth Systems Analysis**
-- **Design and Development of Effective Solutions**
-- **Optimal Maintenance of Hardware and Applications**
+- 🔍 **In-depth Systems Analysis**
+- 💡 **Design and Development of Effective Solutions**
+- 🛠️ **Optimal Maintenance of Hardware and Applications**
 
 I am committed to process optimization and efficient problem-solving, enabling me to tackle challenges with a professional, rigorous, and highly competent approach.
 
@@ -19,19 +23,18 @@ I am committed to process optimization and efficient problem-solving, enabling m
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Languages"> **Languages**: Java, JavaScript, TypeScript, SQL
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" alt="Front-end"> **Front-end**: React, Angular, Next.js
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="30" alt="Back-end"> **Back-end**: Spring Boot, Node.js, NestJS
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30" alt="Databases"> **Databases**: MySQL, MongoDB, Firebase
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/UQJlOiSYR3FVdoRA5d/giphy.gif" width="30" alt="Others"> **Others**: Docker, Git, TailwindCSS
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
 
 ---
