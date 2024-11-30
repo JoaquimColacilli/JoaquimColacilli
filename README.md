@@ -89,6 +89,7 @@ I am committed to process optimization and efficient problem-solving, enabling m
 
 ## 📁 Featured Projects
 
+- [**Script Validator EXEC**](https://github.com/JoaquimColacilli/script-validator) - Script Validator Executable.
 - [**JSON Parser EXEC**](https://github.com/JoaquimColacilli/json-parser-exec) - JSON Formatter Executable.
 - [**El Calculetas**](https://github.com/JoaquimColacilli/el-calculetas) - Finance manager.
 - [**Development Estimator**](https://github.com/JoaquimColacilli/estimador-desarrollo) - Automatic calculator for development projects, based on entered parameters.
