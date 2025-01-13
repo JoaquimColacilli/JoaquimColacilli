@@ -89,7 +89,7 @@ I am committed to process optimization and efficient problem-solving, enabling m
 
 ## 📁 Featured Projects
 
-- [**Player Timer**](https://joaquimcolacilli.github.io/playertimer/) - Interactive timer for multiple players with customizable names, colors, and time tracking.
+- [**Player Timer**]([https://joaquimcolacilli.github.io/playertimer/](https://github.com/JoaquimColacilli/playertimer)) - Interactive timer for multiple players with customizable names, colors, and time tracking.
 - [**Script Validator EXEC**](https://github.com/JoaquimColacilli/script-validator) - Script Validator Executable.
 - [**JSON Parser EXEC**](https://github.com/JoaquimColacilli/json-parser-exec) - JSON Formatter Executable.
 - [**El Calculetas**](https://github.com/JoaquimColacilli/el-calculetas) - Finance manager.
