@@ -88,6 +88,7 @@ I am committed to process optimization and efficient problem-solving, enabling m
 ---
 
 ## 📁 Featured Projects
+- [**Bramelec**](https://github.com/JoaquimColacilli/bramelec) - Landing page for an electrical installations company, specializing in building electrical plans.
 - [**WPF GYM**](https://github.com/JoaquimColacilli/wpf) - WPF Gym landing page focused on fitness motivation and mental strength.
 - [**Player Timer**](https://github.com/JoaquimColacilli/playertimer) - Interactive timer for multiple players with customizable names, colors, and time tracking.
 - [**Script Validator EXEC**](https://github.com/JoaquimColacilli/script-validator) - Script Validator Executable.
