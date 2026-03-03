@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Joaquim Colacilli
 
-**Full Stack Developer** specializing in **Java Spring Boot**, **Angular**, and **MySQL** with a focus on microservices architecture at **NTT Data**. Currently pursuing a Bachelor's degree in **Systems Analysis** at the **Faculty of Engineering, University of Buenos Aires**.
+**Full Stack Developer** specializing in **Java Spring Boot**, **Angular**, and **MySQL** with a focus on microservices architecture at **Despegar**. Currently pursuing a Bachelor's degree in **Systems Analysis** at the **Faculty of Engineering, University of Buenos Aires**.
 
 ---
 
