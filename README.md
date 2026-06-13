@@ -82,7 +82,7 @@ I am committed to process optimization and efficient problem-solving, enabling m
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaquimColacilli&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaquimColacilli&show_icons=true&theme=radical&commits_year=2026" alt="GitHub Stats">
 </p>
 
 ---
