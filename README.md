@@ -56,52 +56,86 @@
 
 ## Experience
 
-### Despegar &nbsp;·&nbsp; Software Developer
-`Feb 2026 — Present`
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="28" alt="React, TypeScript, Tailwind CSS" />
-
-- Frontend development and maintenance for **Cross Selling**, focused on user experience and conversion.
-- Reusable component design and API integration, with close attention to performance and code quality.
-- Collaboration with Product, Design and Backend teams, applying code reviews and shared engineering standards.
-
+<table>
+<tr>
+<td width="110" align="center" valign="top">
 <br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Despegar.png" width="72" alt="Despegar" />
+</td>
+<td valign="top">
+<h3>Despegar &nbsp;·&nbsp; Software Developer</h3>
+<p><code>Feb 2026 — Present</code></p>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" height="26" alt="React, TypeScript, Tailwind CSS" />
+<ul>
+<li>Frontend development and maintenance for <b>Cross Selling</b>, focused on user experience and conversion.</li>
+<li>Reusable component design and API integration, with close attention to performance and code quality.</li>
+<li>Collaboration with Product, Design and Backend teams, applying code reviews and shared engineering standards.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-### Almundo &nbsp;·&nbsp; Software Developer
-`Jun 2025 — Feb 2026`
-
-<img src="https://skillicons.dev/icons?i=angular,java,spring,mongodb,docker" height="28" alt="Angular, Java, Spring Boot, MongoDB, Docker" />
-
-- **Cars and Tours verticals**, built with Angular 17/18 and Java / Spring Boot 3.
-- White-label microsites for partners: parameterization, SEO and performance.
-- BackOffice platform: feature flags, permissions, reporting and support tooling.
-- Cars supplier integration (CNET) with retries, validation and resilience handling.
-- Hexagonal architecture and idempotent pipelines over MongoDB, Cassandra and OpenSearch.
-
+<table>
+<tr>
+<td width="110" align="center" valign="top">
 <br/>
+<img src="https://th.bing.com/th/id/R.b4e3d219433565bd341edd3825fe1d2a?rik=%2f9Y46sbjW5aeyA&pid=ImgRaw&r=0" width="88" alt="Almundo" />
+</td>
+<td valign="top">
+<h3>Almundo &nbsp;·&nbsp; Software Developer</h3>
+<p><code>Jun 2025 — Feb 2026</code></p>
+<img src="https://skillicons.dev/icons?i=angular,java,spring,mongodb,docker" height="26" alt="Angular, Java, Spring Boot, MongoDB, Docker" />
+<ul>
+<li><b>Cars and Tours verticals</b>, built with Angular 17/18 and Java / Spring Boot 3.</li>
+<li>White-label microsites for partners: parameterization, SEO and performance.</li>
+<li>BackOffice platform: feature flags, permissions, reporting and support tooling.</li>
+<li>Cars supplier integration (CNET) with retries, validation and resilience handling.</li>
+<li>Hexagonal architecture and idempotent pipelines over MongoDB, Cassandra and OpenSearch.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-### NTT Data &nbsp;·&nbsp; Software Developer
-`Sep 2022 — Jun 2025`
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,jenkins" height="28" alt="Java, Spring Boot, PostgreSQL, Docker, Jenkins" />
-
-- Design of scalable distributed systems with Spring Boot and Spring Cloud.
-- RESTful APIs using WebFlux, with Circuit Breaker and Retry patterns via Resilience4j.
-- PostgreSQL and Oracle optimization: indexing, query tuning and Hibernate tuning.
-- Asynchronous processing with RabbitMQ and ActiveMQ.
-- CI/CD with GitLab and Jenkins, deploying to OpenShift.
-
+<table>
+<tr>
+<td width="110" align="center" valign="top">
 <br/>
+<img src="https://cdn.brandfetch.io/idleaUWqtx/w/320/h/320/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1737526453311" width="72" alt="NTT Data" />
+</td>
+<td valign="top">
+<h3>NTT Data &nbsp;·&nbsp; Software Developer</h3>
+<p><code>Sep 2022 — Jun 2025</code></p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,jenkins" height="26" alt="Java, Spring Boot, PostgreSQL, Docker, Jenkins" />
+<ul>
+<li>Design of scalable distributed systems with Spring Boot and Spring Cloud.</li>
+<li>RESTful APIs using WebFlux, with Circuit Breaker and Retry patterns via Resilience4j.</li>
+<li>PostgreSQL and Oracle optimization: indexing, query tuning and Hibernate tuning.</li>
+<li>Asynchronous processing with RabbitMQ and ActiveMQ.</li>
+<li>CI/CD with GitLab and Jenkins, deploying to OpenShift.</li>
+</ul>
+</td>
+</tr>
+</table>
 
-### Freelance &nbsp;·&nbsp; Full Stack Developer
-`Jan 2021 — Present`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,aws" height="28" alt="React, Next.js, Node.js, Tailwind CSS, AWS" />
-
-- Modern, responsive landing pages built with React and Next.js.
-- RESTful APIs with Node.js and Express.
-- Custom administrative dashboards and SEO optimization.
-- Web development for **Cubiqa Studio**, delivering premium real-estate project sites.
+<table>
+<tr>
+<td width="110" align="center" valign="top">
+<br/><br/>
+<img src="https://img.shields.io/badge/JC-2563EB?style=for-the-badge" alt="Freelance" />
+</td>
+<td valign="top">
+<h3>Freelance &nbsp;·&nbsp; Full Stack Developer</h3>
+<p><code>Jan 2021 — Present</code></p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,aws" height="26" alt="React, Next.js, Node.js, Tailwind CSS, AWS" />
+<ul>
+<li>Modern, responsive landing pages built with React and Next.js.</li>
+<li>RESTful APIs with Node.js and Express.</li>
+<li>Custom administrative dashboards and SEO optimization.</li>
+<li>Web development for <b>Cubiqa Studio</b>, delivering premium real-estate project sites.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -177,8 +211,20 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoaquimColacilli&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimColacilli&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&langs_count=8" alt="Top languages" />
+<img src="https://ghchart.rshah.org/216e39/JoaquimColacilli" width="100%" alt="Contribution calendar" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaquimColacilli&theme=github_dark&bg_color=00000000&hide_logo=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaquimColacilli&theme=default&bg_color=00000000&hide_logo=true" height="190" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaquimColacilli&theme=github_dark&bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaquimColacilli&theme=default&bg_color=00000000" height="190" alt="Most used languages" />
+</picture>
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaquimColacilli&bg_color=00000000&color=2563EB&line=2563EB&point=0F172A&area=true&area_color=2563EB&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
