@@ -1,0 +1,59 @@
+name: Profile images
+
+# Draws every SVG of the README and publishes them to the `output` branch.
+# Runs on each push to main (content changes) and every 6 hours (activity panel).
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-images
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Draw the SVGs
+        run: node profile/build.mjs --out dist
+        env:
+          # The default token is enough when "Private contributions" is on in the profile.
+          # Optional: a classic token with read:user saved as PROFILE_TOKEN.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          GITHUB_USER: ${{ github.repository_owner }}
+
+      - name: Keep the last activity panel if the API call failed
+        run: |
+          if [ ! -f dist/activity-dark.svg ] && git ls-remote --exit-code --heads origin output > /dev/null; then
+            git fetch -q --depth=1 origin output
+            for f in activity-dark.svg activity-light.svg activity-compact.svg; do
+              git show "origin/output:$f" > "dist/$f" 2> /dev/null || rm -f "dist/$f"
+            done
+          fi
+
+      - name: Publish to the output branch
+        working-directory: dist
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          git init -q -b output
+          git add -A
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Profile images $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push -q -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output

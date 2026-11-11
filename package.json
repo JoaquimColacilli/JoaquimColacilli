@@ -1,0 +1,19 @@
+{
+  "name": "joaquimcolacilli-profile",
+  "private": true,
+  "description": "Generates the SVG panels used by the GitHub profile README.",
+  "type": "module",
+  "scripts": {
+    "build": "node profile/build.mjs",
+    "build:sample": "node profile/build.mjs --sample-activity",
+    "readme": "node profile/readme.mjs"
+  },
+  "dependencies": {
+    "fontkit": "2.0.4",
+    "inter-ui": "4.1.1",
+    "jetbrains-mono": "1.0.6"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
